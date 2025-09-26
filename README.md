@@ -110,6 +110,6 @@ jupyter notebook
 ---
 #  Proje Linki
 
-**Proje:** [Brain Tumor MRI Classification - Kaggle](https://www.kaggle.com/code/esmakaraglle/notebook90cbfd162f)  
+**Proje:** [Brain Tumor MRI Classification - Kaggle](https://www.kaggle.com/code/esmakaraglle/brain-tumor-mri-classification)  
 
 
