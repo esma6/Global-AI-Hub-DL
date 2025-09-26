@@ -1,5 +1,5 @@
-# Global-AI-Hub-DL
-# Brain Tumor MRI Classification with CNN & Transfer Learning
+# Global-AI-Hub-DL Bootcamp
+# CNN ve Transfer Öğrenme Modelleri ile Beyin Tümörü MRI Sınıflandırması
 
 ## 📌 Proje Hakkında
 Bu proje, **MRI beyin tümörü görüntülerinin sınıflandırılması** amacıyla geliştirilmiştir.  
@@ -15,18 +15,6 @@ Ayrıca, model hiperparametre optimizasyonu için **Keras Tuner RandomSearch** u
   - `meningioma_tumor`
   - `pituitary_tumor`
   - `no_tumor`
-- **Dosya Yapısı:**
-├── Training/
-│ ├── glioma_tumor/
-│ ├── meningioma_tumor/
-│ ├── pituitary_tumor/
-│ └── no_tumor/
-└── Testing/
-├── glioma_tumor/
-├── meningioma_tumor/
-├── pituitary_tumor/
-└── no_tumor/
-
 
 ---
 
@@ -106,15 +94,22 @@ Confusion Matrix ve Classification Report ile detaylı sınıf bazlı performans
 
 Modelin hangi bölgelerden etkilendiği görselleştirildi.
 
-### ⚡ Kurulum ve Çalıştırma
+# ⚡ Kurulum ve Çalıştırma
 
-# Sanal ortam oluştur
-python -m venv venv
-source venv/bin/activate  # Linux / Mac
-venv\Scripts\activate     # Windows
+### Sanal ortam oluştur
+#### python -m venv venv
+#### source venv/bin/activate  # Linux / Mac
+#### venv\Scripts\activate     # Windows
 
-# Gerekli paketleri yükle
+### Gerekli paketleri yükle
 pip install -r requirements.txt
 
-# Jupyter Notebook başlat
+### Jupyter Notebook başlat
 jupyter notebook
+
+---
+#  Proje Linki
+
+**Proje:** [Brain Tumor MRI Classification - Kaggle](https://www.kaggle.com/code/esmakaraglle/notebook90cbfd162f)  
+
+
